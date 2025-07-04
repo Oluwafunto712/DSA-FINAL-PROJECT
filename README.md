@@ -1,11 +1,11 @@
 # DSA-FINAL-PROJECT
 DSA PROJECT
- I cleaned and transformed the dataset to make it ready for analysis.
+My dataset consisted of two tables. 
+I began by creating a database and importing the tables. 
+During the import process, I defined primary keys to maintain data integrity.
+Next, I performed data cleaning
+	•	Removed unnecessary columns.
+	•	Standardized the format of numerical values by adjusting the number of decimal places.
+	•	Checked for and handled null values in rows.
+	After completing the cleaning process, I proceeded to answer the analysis questions based on the refined dataset.
 
-I Removed unnecessary columns, such as image links, product links and blank fields.
-
- Dropped rows with missing values in important fields like product name, price, and rating.
-
- Standardized numeric columns (price, rating, review count) to ensure accurate calculations.
-
-These changes made the data consistent, clean, and ready for analysis.
